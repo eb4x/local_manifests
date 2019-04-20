@@ -12,6 +12,9 @@
 <project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="master" />
 
+<!--msm8960-->
+<project path="device/sony/c2105" name="device-sony-c2105" groups="device" remote="sony" revision="master" />
+
 <!--sdm630-->
 <project path="device/sony/nile" name="device-sony-nile" groups="device" remote="sony" revision="master" />
 <project path="device/sony/discovery" name="device-sony-discovery" groups="device" remote="sony" revision="master" />
